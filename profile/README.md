@@ -1,4 +1,4 @@
-| 名称         | 描述     |
+| 项目         | 描述     |
 | ------------ | -------------- |
 | [nest-best](https://github.com/aurora-backend/nest-best) | NestJS 快速入门。|
 | [seo-best](https://github.com/aurora-backend/seo-best) | 借助UI自动化技术，提升网站排名。（例如百度）。|
